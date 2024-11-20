@@ -1,0 +1,26 @@
+com/example/instagramclone/databinding/ActivityAccountSettingsBinding.java
+ com.example.instagramclone.databinding.ActivityAccountSettingsBinding
+com/example/instagramclone/databinding/FragmentNotifications2Binding.java
+ com.example.instagramclone.databinding.FragmentNotifications2Binding
+com/example/instagramclone/databinding/UserItemLayoutBinding.java
+ com.example.instagramclone.databinding.UserItemLayoutBinding
+com/example/instagramclone/databinding/PostsLayoutBinding.java
+ com.example.instagramclone.databinding.PostsLayoutBinding
+com/example/instagramclone/databinding/FragmentProfile2Binding.java
+ com.example.instagramclone.databinding.FragmentProfile2Binding
+com/example/instagramclone/databinding/FragmentFragmentsBinding.java
+ com.example.instagramclone.databinding.FragmentFragmentsBinding
+com/example/instagramclone/databinding/ActivityAddPostBinding.java
+ com.example.instagramclone.databinding.ActivityAddPostBinding
+com/example/instagramclone/BuildConfig.java
+ com.example.instagramclone.BuildConfig
+com/example/instagramclone/databinding/FragmentSearch2Binding.java
+ com.example.instagramclone.databinding.FragmentSearch2Binding
+com/example/instagramclone/databinding/FragmentHome2Binding.java
+ com.example.instagramclone.databinding.FragmentHome2Binding
+com/example/instagramclone/databinding/ActivitySignUpBinding.java
+ com.example.instagramclone.databinding.ActivitySignUpBinding
+com/example/instagramclone/databinding/ActivityMainBinding.java
+ com.example.instagramclone.databinding.ActivityMainBinding
+com/example/instagramclone/databinding/ActivitySignInBinding.java
+ com.example.instagramclone.databinding.ActivitySignInBinding

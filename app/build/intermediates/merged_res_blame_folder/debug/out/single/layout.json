@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\posts_layout.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\posts_layout.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home2.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_home2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_post.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile2.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_profile2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications2.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_notifications2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_item_layout.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\user_item_layout.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account_settings.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search2.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_search2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_fragments.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_fragments.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "G:\\LevelX-master\\LevelX-master\\.gradle\\caches\\transforms-3\\e48b7d63d84d823bf86751df50f65f22\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,1054",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,1138"
+                    }
+                },
+                {
+                    "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "1049"
+                    }
+                }
+            ]
+        }
+    ]
+}

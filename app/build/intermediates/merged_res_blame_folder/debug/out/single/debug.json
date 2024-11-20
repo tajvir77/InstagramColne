@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_send_icon.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\send_icon.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_ic.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\app_ic.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_comment.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_user_item_layout.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\user_item_layout.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_black_background.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\button_black_background.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_notifications2.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_notifications2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_instagram.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile2.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_profile2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_vertical_view.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\vertical_view.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_posts_layout.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\posts_layout.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home2.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_home2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_save_edited_info.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\save_edited_info.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_grid.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\grid.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_save_large_icon.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\save_large_icon.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_account_settings.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_ui.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\back_ui.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_post.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_options.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\options.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile_icon.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_close.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_image_icon.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\add_image_icon.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_clicked.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\heart_clicked.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_inputs_background.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\inputs_background.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fragments.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_fragments.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search2.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\layout\\fragment_search2.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons_background.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\buttons_background.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_save_unfilled_large_icon.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\save_unfilled_large_icon.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_not_clicked.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\heart_not_clicked.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_add.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable_camera.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "F:\\InstagramClone_8 (1)\\InstagramClone_8\\InstagramClone_7\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    }
+]
